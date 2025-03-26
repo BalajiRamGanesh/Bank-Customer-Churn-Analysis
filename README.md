@@ -1,7 +1,6 @@
 # Bank Customer Churn Analysis
 
 <img src="https://github.com/BalajiRamGanesh/Bank-Customer-Churn-Analysis/blob/main/Bank%20Churn%20Dashboard.png?raw=true" alt = "Dashboard" width = "800" height="400">
-![Dashboard]()
 
 
 ## Table of Contents 
