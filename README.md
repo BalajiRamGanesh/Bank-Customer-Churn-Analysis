@@ -5,17 +5,12 @@
 
 ## Table of Contents 
 
-- [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Dataset Description](#dataset-description)
 - [Tools Used](#tools-used)
 - [Process](#process)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
-
-## Overview
-
-This project explores customer churn in a bank to identify key factors influencing account closures. By analyzing customer demographics, account activity, credit card ownership, and financial behavior, the analysis uncovers patterns that contribute to churn.
 
 ## Problem Statement
 
